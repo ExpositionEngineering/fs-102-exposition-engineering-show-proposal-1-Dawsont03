@@ -18,11 +18,11 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## Dawson thomas
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
+I adhered to the Allegheny College Honor Code while completing this project.
 
 
 
@@ -32,69 +32,57 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+We have one of us interview the ExpositionEngineering professor about his major in college and how the process was to choose that.
 
 ## 🔬 Show Details
 
-TODO: Provide all of the required details for your podcast episode.
+Provide all of the required details for your podcast episode.
 
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
+Make sure that your title follows the format `[Name of Guest] on [Name of
 Topic]`.
 
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**:Gregory M. Kapfhammer on his major.
+- **Host**:Me
+- **Guest**:Gregory M. Kapfhammer
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
+Provide a list of of at least three objectives for the podcast episode.
 
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**:Find out what his major was and the process to choose that.
+- **Objective Two**:Find out if he wanted something else
+- **Objective Three**Talk about what he would do differently and any tips he has.
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
+- **Question One**: What is your major and why did you choose it?
+- **Question Two**: Have you always wanted to be a profesor?
+- **Question Three**: Do you have anything you would change about your journey?
 
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
-
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
-
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**: Listeners find out about his major and the process he went through to choose it.
+- **Justification for Question Two**: Listeners discover more about Greg and his journey towards his major.
+- **Justification for Question Three**: We see the issues he may have had or not had with choosing a major.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+We enter the show with the host and Greg in frame. I give an intro and a summary about what the podcast is. From there, I allow Greg to introduce himself and talk about what he does and what he has done in the past. Then I give insight into what this episode will be about.
+
+I ask the first sample question and Greg responds with the reasons why he chose his major. We can go back and foth for a few minutes and the process. Then I'll flow into asking about if he wanted to be a proffesor. 
+
+Once we fill the time up with content, we will then fade into what he would do differently. This will be important for our listeners trying to decide a major.
 
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
-
-TODO: Write at least two sentences that explain the call to action for this episode.
+After listening to this epsidoe, they can feel comfortable being confused about their major. They can have hope that the process can be rocky or perfectly stable.
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
+- **Reference One**:https://www.gregorykapfhammer.com
+- **Reference Two**:https://github.com/gkapfham
+- **Reference Three**:https://discord.com/channels/1197520474364710922/1197521808430202950
 
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
+If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
 you used, how you used them, and what content they helped you to brainstorm,
 write, or revise. While the use of AI writing assistants is permitted as a part
