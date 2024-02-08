@@ -1,4 +1,4 @@
-# Show Proposal One
+Show Proposal One
 
 ## ✨ Table of Contents
 
