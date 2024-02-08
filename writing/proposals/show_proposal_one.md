@@ -74,9 +74,10 @@ Once we fill the time up with content, we will then fade into what he would do d
 After listening to this epsidoe, they can feel comfortable being confused about their major. They can have hope that the process can be rocky or perfectly stable.
 
 ## 🦜 References
-- **Reference One**: https://www.gregorykapfhammer.com
-- **Reference Two**: https://github.com/gkapfham
-- **Reference Three**: https://discord.com/channels/1197520474364710922/1197521808430202950
+
+- **Reference One**: [text](https://www.gregorykapfhammer.com)
+- **Reference Two**: [text] (https://github.com/gkapfham)
+- **Reference Three**:  [text] (https://discord.com/channels/1197520474364710922/1197521808430202950)
 
 If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
