@@ -24,8 +24,6 @@
 
 I adhered to the Allegheny College Honor Code while completing this project.
 
-
-
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
 while completing the project.
@@ -67,20 +65,18 @@ Provide a list of of at least three objectives for the podcast episode.
 
 We enter the show with the host and Greg in frame. I give an intro and a summary about what the podcast is. From there, I allow Greg to introduce himself and talk about what he does and what he has done in the past. Then I give insight into what this episode will be about.
 
-I ask the first sample question and Greg responds with the reasons why he chose his major. We can go back and foth for a few minutes and the process. Then I'll flow into asking about if he wanted to be a proffesor. 
+I ask the first sample question and Greg responds with the reasons why he chose his major. We can go back and foth for a few minutes and the process. Then I'll flow into asking about if he wanted to be a proffesor.
 
 Once we fill the time up with content, we will then fade into what he would do differently. This will be important for our listeners trying to decide a major.
-
 
 ## 📢 Call to Action
 
 After listening to this epsidoe, they can feel comfortable being confused about their major. They can have hope that the process can be rocky or perfectly stable.
 
 ## 🦜 References
-
-- **Reference One**:https://www.gregorykapfhammer.com
-- **Reference Two**:https://github.com/gkapfham
-- **Reference Three**:https://discord.com/channels/1197520474364710922/1197521808430202950
+- **Reference One**: https://www.gregorykapfhammer.com
+- **Reference Two**: https://github.com/gkapfham
+- **Reference Three**: https://discord.com/channels/1197520474364710922/1197521808430202950
 
 If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
